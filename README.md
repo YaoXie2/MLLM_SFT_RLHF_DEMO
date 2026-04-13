@@ -1,0 +1,2 @@
+# MLLM_SFT_RLHF_DEMO
+多模态大模型的SFT和RLHF微调实战。
