@@ -1,5 +1,5 @@
 # MLLM_SFT_RLHF_DEMO
-详细结束内容介绍可参考我这篇博客：[MS-Swift框架下Qwen3-VL的SFT和RLHF微调实战](https://blog.csdn.net/messyking/article/details/159967379?sharetype=blogdetail&sharerId=159967379&sharerefer=PC&sharesource=messyking&spm=1011.2480.3001.8118)
+详细技术内容介绍可参考我这篇博客：[MS-Swift框架下Qwen3-VL的SFT和RLHF微调实战](https://blog.csdn.net/messyking/article/details/159967379?sharetype=blogdetail&sharerId=159967379&sharerefer=PC&sharesource=messyking&spm=1011.2480.3001.8118)
 <div align=center>
 	<img src="./figures/blog.png"/>
 	<p> 博客首页 </p>
